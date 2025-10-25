@@ -1,7 +1,11 @@
 # Weather-dashboard
+
 1. Project Title / Headline
  🌦 Weather Analytics: Real-time & Forecast Weather Insights Dashboard
 A dynamic and interactive Power BI dashboard designed to analyze weather patterns, forecast conditions, and visualize air quality trends for better decision-making.
+
+<img width="1226" height="763" alt="image" src="https://github.com/user-attachments/assets/ec8034ed-a92b-44a4-a721-3a397be193b0" />
+
 
 2. Short Description / Purpose
 The Weather Dashboard is a visually engaging and analytical Power BI project that displays real-time and forecasted weather data for different cities.
@@ -49,6 +53,4 @@ The dataset includes key weather metrics such as:
 	•	🏥 Healthcare Organizations → Track air quality trends to alert patients with respiratory issues.
 	•	🌱 Farmers & Agriculture Sector → Analyze rainfall forecasts and humidity levels to plan crop activities.
 
-  7. Screenshots / Demos
-     https://github.com/Simran0144/Weather-dashboard/blob/main/weather_ss.png
 
